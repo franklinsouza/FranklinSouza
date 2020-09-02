@@ -29,11 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<p>
-   <img src="https://iili.io/dtkqBa.png" alt="CL Thumb" border="0" width="100%">
-</p>
-
 ---
 
 
