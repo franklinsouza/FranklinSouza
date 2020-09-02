@@ -6,6 +6,7 @@
 ## 👨 Sobre
 
 Hi there 👋🏻
+
 Me chamo Franklin Souza, sou frontend developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/franklinsouza)](https://www.linkedin.com/public-profile/in/franklinsouza) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:frankrsouza@gmail.com)](mailto:frankrsouza@gmail.com) 
