@@ -1,34 +1,19 @@
-
 <p>
    <img src="https://iili.io/dtkqBa.png" alt="CL Thumb" border="0" width="100%">
 </p>
-
----
-
-## 👨🏻‍💻 Sobre 
-
-Hi there 👋🏻  
+<br />
+## 👨 Sobre
+Hi there 👋🏻
 Me chamo Franklin Souza, sou frontend developer.
 
-Ferramentas favoritas:  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="20"/> <b>Javascript</b>, <img src="https://kariselovuo.pro/ksprov1/wp-content/uploads/2018/02/css-logo-300x300.png" width="20"/> <b>CSS</b>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/franklinsouza)](https://www.linkedin.com/public-profile/in/franklinsouza) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:frankrsouza@gmail.com)](mailto:frankrsouza@gmail.com) 
+<br/> 
 
-Atualmente aprendendo: <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>
+## 💻 Skills
 
-<!--
-**franklinsouza/FranklinSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-darkgreen?style=flat&logoColor=white&logo=javascript) 
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux) ![PHP](https://img.shields.io/badge/-PHP-8993c1?style=flat&logoColor=white&logo=php) ![Wordpress](https://img.shields.io/badge/-Wordpress-ffdd19?style=flat&logoColor=white&logo=wordpress)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
----
+Atualmente aprendendo: ![React](https://img.shields.io/badge/-React-darkgreen?style=flat&logoColor=white&logo=react) ![React-Native](https://img.shields.io/badge/-React_Native-19a7ff?style=flat&logoColor=white&logo=react)
 
 
