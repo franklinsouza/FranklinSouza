@@ -3,6 +3,7 @@
 </p>
 <br />
 ## 👨 Sobre
+
 Hi there 👋🏻
 Me chamo Franklin Souza, sou frontend developer.
 
@@ -11,9 +12,7 @@ Me chamo Franklin Souza, sou frontend developer.
 
 ## 💻 Skills
 
-![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-darkgreen?style=flat&logoColor=white&logo=javascript) 
+![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-darkgreen?style=flat&logoColor=white&logo=javascript)<br />
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux) ![PHP](https://img.shields.io/badge/-PHP-8993c1?style=flat&logoColor=white&logo=php) ![Wordpress](https://img.shields.io/badge/-Wordpress-ffdd19?style=flat&logoColor=white&logo=wordpress)
 
-Atualmente aprendendo: ![React](https://img.shields.io/badge/-React-darkgreen?style=flat&logoColor=white&logo=react) ![React-Native](https://img.shields.io/badge/-React_Native-19a7ff?style=flat&logoColor=white&logo=react)
-
-
+Aprendendo: ![React](https://img.shields.io/badge/-React-darkgreen?style=flat&logoColor=white&logo=react) ![React-Native](https://img.shields.io/badge/-React_Native-19a7ff?style=flat&logoColor=white&logo=react)
