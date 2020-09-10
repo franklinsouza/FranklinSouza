@@ -9,12 +9,13 @@ Hi there 👋🏻
 
 Me chamo Franklin Souza, sou frontend developer.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/franklinsouza)](https://www.linkedin.com/public-profile/in/franklinsouza) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:frankrsouza@gmail.com)](mailto:frankrsouza@gmail.com) 
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/franklinsouza)](https://www.linkedin.com/public-profile/in/franklinsouza)
 <br/> 
 
 ## 💻 Skills
 
-![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-darkgreen?style=flat&logoColor=white&logo=javascript)<br />
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux) ![PHP](https://img.shields.io/badge/-PHP-8993c1?style=flat&logoColor=white&logo=php) ![Wordpress](https://img.shields.io/badge/-Wordpress-ffdd19?style=flat&logoColor=white&logo=wordpress)
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br />
+![Php](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)![Wordpress](https://img.shields.io/badge/wordpress-%23135E96.svg?&style=for-the-badge&logo=wordpress&logoColor=white)![Linux](https://img.shields.io/badge/linux-%23000000.svg?&style=for-the-badge&logo=linux&logoColor=F6CC2B)
 
-Estudando: ![React](https://img.shields.io/badge/-React-darkgreen?style=flat&logoColor=white&logo=react) ![React-Native](https://img.shields.io/badge/-React_Native-19a7ff?style=flat&logoColor=white&logo=react)
+Estudando: ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React-Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React-Native](https://img.shields.io/badge/next_js%20-%2320232a.svg?&style=for-the-badge)
