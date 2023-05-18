@@ -38,7 +38,7 @@ Highlighted projects: [Estância](https://estancia.com.br/), [Santa Casa Mauá](
 
 **Front-end Developer**<br /> 
 [**Mentor Cycle**](https://github.com/Mentor-Cycle)<br /> 
-Technologies: `React JS`, `Next JS`,  `TypeScript`<br />
+Technologies: `React JS`, `Next JS`, `TypeScript`, `Tailwind`<br />
 Project: [Mentor Cycle](https://mentor-cycle-fe-dev.up.railway.app/)
 <br />
 <br />
